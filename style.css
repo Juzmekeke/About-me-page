@@ -31,3 +31,9 @@ ol,
 ul {
   margin-bottom: 2rem;
 }
+img {
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  max: width 100px;
+}
