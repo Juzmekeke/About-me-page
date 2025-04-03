@@ -1,1 +1,18 @@
-h1,h2{ text-transform:uppercase; font-weight:bold;letter-spacing: 2.5px; }
+h1,
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2.5px;
+}
+p {
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+a {
+  color: purple;
+  font-size: large;
+}
+a:hover {
+  background-color: red;
+  text-decoration: underline;
+}
