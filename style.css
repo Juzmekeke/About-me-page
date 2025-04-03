@@ -4,11 +4,19 @@ h2 {
   font-weight: bold;
   letter-spacing: 2.5px;
   padding: 25px;
-}
+  font-family: "Indie Flower", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    text-align: center;
+  }
+  
 p {
   line-height: 1.6;
   font-size: 1.1rem;
   margin-bottom: 2rem;
+  font-family: "Indie Flower", cursive;
+    font-weight: 800;
+    font-style: normal;
 }
 a {
   color: purple;
@@ -30,6 +38,10 @@ p {
 ol,
 ul {
   margin-bottom: 2rem;
+  font-family: "Just Me Again Down Here", cursive;
+  font-weight: 500;
+  font-style: normal;
+
 }
 img {
   border-radius: 50%;
@@ -37,3 +49,5 @@ img {
   margin: auto;
   max: width 100px;
 }
+
+    
