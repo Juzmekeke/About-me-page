@@ -3,10 +3,12 @@ h2 {
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 2.5px;
+  padding: 25px;
 }
 p {
   line-height: 1.6;
   font-size: 1.1rem;
+  margin-bottom: 2rem;
 }
 a {
   color: purple;
@@ -15,4 +17,17 @@ a {
 a:hover {
   background-color: red;
   text-decoration: underline;
+}
+body {
+  background-color: rgb(248, 186, 207);
+  color: black;
+  margin: 0 auto;
+  max-width: 800px;
+}
+p {
+  padding: 25px;
+}
+ol,
+ul {
+  margin-bottom: 2rem;
 }
