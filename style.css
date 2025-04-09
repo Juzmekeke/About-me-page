@@ -1,4 +1,7 @@
-html{ background:url(Hearts\ full.png) no-repeat center fixed; background-size: cover; }
+html {
+  background: url(Hearts\ full.png) no-repeat center fixed;
+  background-size: cover;
+}
 h1,
 h2 {
   text-transform: uppercase;
@@ -6,16 +9,17 @@ h2 {
   letter-spacing: 2.5px;
   padding: 25px;
   font-family: "Indie Flower", cursive;
-    font-weight: 1000;
-    font-style: normal;
-    text-align: center;
-  }
-  
+  font-weight: 1000;
+  font-style: normal;
+  text-align: center;
+}
+
 p {
   line-height: 1.6;
   font-size: 1.1rem;
   margin-bottom: 2rem;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 a {
   color: purple;
@@ -31,19 +35,21 @@ body {
   max-width: 800px;
 }
 p {
-  background-color:rgb(249, 180, 191,.8) ;
+  background-color: rgb(249, 180, 191, 0.8);
   padding: 25px;
   border: solid;
 }
 ol,
 ul {
-  background-color:rgb(249, 180, 191,.6);
+  background-color: rgb(249, 180, 191, 0.6);
   margin-bottom: 2rem;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-weight: 500;
-  font-style: normal;}
-  ol{ border: solid
-
+  font-style: normal;
+}
+ol {
+  border: solid;
 }
 img {
   border-radius: 50%;
@@ -51,5 +57,3 @@ img {
   margin: auto;
   max: width 100px;
 }
-
-    
